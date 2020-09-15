@@ -1,0 +1,2 @@
+# POO_Retangulo
+EXERCÍCIO 1 Desenvolva um programa para ler os valores da largura e altura de um retângulo, mostre na tela o valor de sua área, perímetro e diagonal. Use o exemplo da classe descrita no UML e da tela descrita abaixo: Retangulo - Largura : double - Altura : double + Area() : double + Perimetro() : double + Diagonal() : double ENTRE COM A LARGURA E ALTURA DO RETÂNGULO: 3.00 4.00 AREA = 12.00 PERÍMETRO = 14.00 DIAGONAL = 5.00
